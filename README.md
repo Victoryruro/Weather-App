@@ -1,8 +1,8 @@
 # React Weather App 🌤️
 
-A simple React weather application built with Vite that lets you search for cities worldwide and view their current weather, temperature, humidity, and wind speed.  
+A simple React weather application built with Vite. Search for cities worldwide and view the current weather, temperature, humidity, and wind speed.  
 
-Live demo: [https://Victoryruro.github.io/weatherapp](https://Victoryruro.github.io/weatherapp)
+Live demo: [https://Victoryruro.github.io/Weather-App](https://Victoryruro.github.io/Weather-App)
 
 ---
 
@@ -19,6 +19,7 @@ Live demo: [https://Victoryruro.github.io/weatherapp](https://Victoryruro.github
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Victoryruro/weatherapp.git
-cd weatherapp
+git clone https://github.com/Victoryruro/Weather-App.git
+cd Weather-App
+
 
