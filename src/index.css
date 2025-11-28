@@ -9,7 +9,11 @@
 
 }
 .app{
+  
   min-height: 100vh;
-  display: grid;
-  background: #c8d2db;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #acd0f185;
 }

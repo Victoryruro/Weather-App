@@ -7,6 +7,11 @@
     flex-direction: column;
     align-items: center;
     height: inherit;
+    width: 90%;          
+    max-width: 450px;    
+    margin: 0 auto;      
+          
+    box-sizing: border-box; 
 }
 h1 {
     color: #ffffff;
@@ -16,6 +21,8 @@ h1 {
     display: flex;
     align-items: center;
     gap: 12px;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 .search-bar input{
     height: 50px;
@@ -40,13 +47,13 @@ h1 {
     margin: 30px 0;
 }
 .temperature{
-    font-size: 80px;
+    font-size: 5rem;
     line-height: 1;
     font-weight: 700;
     color: #ffffff;
 }
 .location{
-    font-size: 40px;
+    font-size: 2rem;
     font-weight: 600;
     color: #ffffff;
     margin-top: 10px;
