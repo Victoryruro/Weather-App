@@ -71,6 +71,7 @@ function Weather() {
     }, [])
     return (
         <div className='weather'>
+            <h1 >Weather App</h1>
             <div className='search-bar'>
                 <input ref={inputRef} type="text" name="search" id="search" placeholder='Search City' />
                 <img src={searchIcon} alt="search icon " onClick={() =>search(inputRef.current.value)}/>
